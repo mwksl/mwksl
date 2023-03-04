@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwksl&label=Profile%20views&color=0e75b6&style=flat" alt="mwksl" /> </p>
 
-- 🔭 I’m currently working on **https://moodmix.app**
-
+- 🔭 I’m currently working on **https://moodmix.app** and **https://beerrun.club**
+ 
 - 👨‍💻 All of my projects are available at [https://mwksl.me](https://mwksl.me)
 
 - 💬 Ask me about **react, svelte, go, typescript**

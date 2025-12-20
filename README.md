@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A software engineer based in Denver, CO</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwksl&label=Profile%20views&color=0e75b6&style=flat" alt="mwksl" /> </p>
-
-- 🔭 I’m currently working on **https://moodmix.app** and **https://beerrun.club**
- 
-- 👨‍💻 All of my projects are available at [https://mwksl.me](https://mwksl.me)
-
-- 💬 Ask me about **react, svelte, go, typescript**
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/mwksl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mwksl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mwksl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mwksl" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mwksl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mwksl" height="30" width="40" /></a>
+<h1 align="center">Hey, I’m Matthew 👋</h1>
+<p align="center">
+  Head of Engineering • Denver, CO<br/>
+  Building insurance software + shipping small products
 </p>
+
+<p align="center">
+  <a href="https://mwksl.me">Portfolio</a> ·
+  <a href="https://comet.fm">Comet Labs</a> ·
+  <a href="https://beerrun.club">BeerRun.club</a> ·
+  <a href="https://linkedin.com/in/mwksl">LinkedIn</a>
+</p>
+
+### What I’m doing
+- **Head of Engineering** at <a href="https://beep.is">beep.is</a> (insurance)
+- Consulting + product builds via <a href="https://comet.fm">Comet Labs</a>
+- Shipping side projects 
+
+### Tech I reach for
+- **Ruby / Rails** (plus the usual boring-but-good production stuff)
+- **iOS / Swift** (SwiftUI, modern architecture)
+- **Gleam** (because BEAM is a good time)
+
+### Elsewhere
+- Blog: https://blog.mwksl.me
+- Strava: [https://www.strava.com](https://www.strava.com/athletes/57383252)

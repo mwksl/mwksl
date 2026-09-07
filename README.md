@@ -12,15 +12,14 @@
 </p>
 
 ### What I’m doing
-- **Head of Engineering** at <a href="https://beep.is">beep.is</a> (insurance)
+- **Head of Engineering** at <a href="https://beep.is">beep.is</a> 
 - Consulting + product builds via <a href="https://comet.fm">Comet Labs</a>
 - Shipping side projects 
 
 ### Tech I reach for
-- **Ruby / Rails** (plus the usual boring-but-good production stuff)
-- **iOS / Swift** (SwiftUI, modern architecture)
-- **Gleam** (because BEAM is a good time)
+- **Ruby / Rails** 
+- **iOS / Swift** 
 
 ### Elsewhere
-- Blog: https://blog.mwksl.me
+- Blog: [https://mwksl.me/journal](https://mwksl.me/journal)
 - Strava: [https://www.strava.com](https://www.strava.com/athletes/57383252)
